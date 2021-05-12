@@ -26,3 +26,4 @@ I’m currently working on an open-sourced CANOpen stack.
 ### Find me on the web 🌍
 
 - LinkedIn: [clovis-durand](https://www.linkedin.com/in/clovis-durand/)
+- Twitter: [@Clovel19](https://twitter.com/Clovel19)
