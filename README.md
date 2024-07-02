@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hey 👋
 
-I’m Clovis ! I’m a French Software engineer who is passionate about doing **open source** development and **building things** !
+I’m Clovis ! I’m a French Software engineer who is passionate about contributing to **open source** projects and **building things** !
 
 ⚡ I am a trained Electronics & Embedded Systems engineer, but now I work with web technologies.
 
@@ -24,7 +24,6 @@ I like to build my own things at home too !
 ### Find me on the web 🌍
 
 - LinkedIn: [clovis-durand](https://www.linkedin.com/in/clovis-durand/)
-- Twitter: [@Clovel19](https://twitter.com/Clovel19)
 
 ### My GitHub stats
 
